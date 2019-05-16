@@ -2,7 +2,7 @@
 
 This repository contains several useful scripts for Git.  
 
-*I didn't wrote all the scripts. I found some of them online and did little modifications. The licenses for those are in the files.*
+*I didn't wrote the scripts. I found them online and did little modifications. The licenses for those are in the files.*
 
 ## git-large-files
 
